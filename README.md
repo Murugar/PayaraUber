@@ -1,5 +1,4 @@
-# PayaraUber
-Payara UberJar 
+# PayaraUber  
 
 gradle clean build uberJar 
 
